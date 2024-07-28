@@ -631,7 +631,7 @@
 			isa = PBXGroup;
 			children = (
 				3D3C3CCB26E5568800759140 /* SQLite.playground */,
-				EE247AD51C3F04ED00AE3E12 /* SQLite */,
+				EE247AD51C3F04ED00AE3E12 /* SQLiteSwift */,
 				EE247AE11C3F04ED00AE3E12 /* SQLiteTests */,
 				DEB307132B61D04500F9D46B /* SQLite visionOS.xctestplan */,
 				EE247B8A1C3F81D000AE3E12 /* Metadata */,
@@ -658,7 +658,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EE247AD51C3F04ED00AE3E12 /* SQLite */ = {
+		EE247AD51C3F04ED00AE3E12 /* SQLiteSwift */ = {
 			isa = PBXGroup;
 			children = (
 				EE247AD61C3F04ED00AE3E12 /* SQLite.h */,
@@ -671,8 +671,8 @@
 				EE247AF91C3F06E900AE3E12 /* Typed */,
 				19A1792D261C689FC988A90A /* Schema */,
 			);
-			name = SQLite;
-			path = Sources/SQLite;
+			name = SQLiteSwift;
+			path = Sources/SQLiteSwift;
 			sourceTree = "<group>";
 		};
 		EE247AE11C3F04ED00AE3E12 /* SQLiteTests */ = {
